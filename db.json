@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "id": "1", "name": "Kevin" },
+    { "id": "2", "name": "James" },
+    { "id": "3", "name": "Ken" }
+  ],
+  "books": [
+    { "name": "load of the ring", "price": 100 },
+    { "name": "rion king", "price": 200 },
+    { "name": "rion king", "price": 300 }
+  ]
+}
